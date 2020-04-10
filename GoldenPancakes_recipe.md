@@ -3,7 +3,7 @@
 These pancakes are golden in taste only. The brown sugar gives them a dark rich flavor that plays well with my recommended syrup. 
 Super fluffy. Super derivitive. 
 
-The steps are taken from another popular pancake recipe. 
+The steps are derived from another popular pancake recipe, with some flavor and texture updates. 
 Also, if its christmas, grate some nutmeg into the dry mixture. Be festive
 
 ## @ingredients
